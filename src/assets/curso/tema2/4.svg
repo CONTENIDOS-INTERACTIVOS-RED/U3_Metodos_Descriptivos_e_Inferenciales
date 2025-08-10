@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119.188" height="91.91" viewBox="0 0 119.188 91.91">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.537" y1="-0.53" x2="-0.533" y2="-0.53" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cbced0"/>
+      <stop offset="1" stop-color="#84838b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1.719" y1="-1" x2="-1.713" y2="-1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#276dc3"/>
+      <stop offset="1" stop-color="#165caa"/>
+    </linearGradient>
+  </defs>
+  <g id="r_logotyp.us" data-name="r@logotyp.us" transform="translate(-145 -95.897)">
+    <path id="Trazado_1052547" data-name="Trazado 1052547" d="M204.594,175.72c-32.913,0-59.594-17.869-59.594-39.912S171.681,95.9,204.594,95.9s59.594,17.869,59.594,39.912S237.507,175.72,204.594,175.72Zm9.122-64.219c-25.017,0-45.3,12.216-45.3,27.285s20.28,27.286,45.3,27.286,43.478-8.352,43.478-27.286S238.733,111.5,213.716,111.5Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Trazado_1052548" data-name="Trazado 1052548" d="M297.894,189.073a44.865,44.865,0,0,1,5.7,2.148,11.03,11.03,0,0,1,2.892,2.066,7.813,7.813,0,0,1,1.323,1.9l14.215,23.967-22.975.01L288.307,198.99s-2.2-3.78-3.554-4.876c-1.13-.914-1.611-1.24-2.728-1.24h-5.458l0,26.276-20.33.009V152.038h40.826s18.595.335,18.595,18.027-17.768,19.008-17.768,19.008ZM289.051,166.6l-12.308-.008L276.737,178l12.314,0s5.7-.018,5.7-5.806c0-5.9-5.7-5.6-5.7-5.6Z" transform="translate(-62.135 -31.358)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
